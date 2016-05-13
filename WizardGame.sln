@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{D2500BD9-8702-8975-AD8B-39F12925CCE2}") = "WizardGame", "Assembly-CSharp.csproj", "{83C1837F-2335-F206-B208-310A9CF2DDB4}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wizardgame.CSharp", "wizardgame.CSharp.csproj", "{7A82D450-7232-272E-4AF3-A660CAD903D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83C1837F-2335-F206-B208-310A9CF2DDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83C1837F-2335-F206-B208-310A9CF2DDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83C1837F-2335-F206-B208-310A9CF2DDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83C1837F-2335-F206-B208-310A9CF2DDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A82D450-7232-272E-4AF3-A660CAD903D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A82D450-7232-272E-4AF3-A660CAD903D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A82D450-7232-272E-4AF3-A660CAD903D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A82D450-7232-272E-4AF3-A660CAD903D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
